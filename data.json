@@ -1,0 +1,26 @@
+{
+    "name": "Hamza Ali",
+    "avatar": "https://pbs.twimg.com/profile_images/1558579344141852678/7wnaGNEm_400x400.jpg",
+    "links": [
+        {
+            "title": "My personal website",
+        "url": "https://website1-0-0.vercel.app/",
+        "image": "https://website1-0-0.vercel.app/_next/image?url=%2Fhamza.jpg&w=640&q=75"
+    },
+    {
+        "title": "Vercel.com",
+        "url": "https://vercel.com"
+
+    }
+    ], 
+    "socials": [
+        {
+            "title": "Twitter",
+            "href": "https://twitter.com/_hamzaahmed81_"
+        },
+        {
+            "title": "Github",
+            "href": "https://github.com/hamzaali81"
+        }
+    ]
+}
